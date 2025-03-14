@@ -5,6 +5,8 @@
     - [项目结构](#项目结构)
     - [本地安装](#本地安装)
     - [docker安装](#docker安装)
+    - [初始化数据](#初始化数据)
+    - [用户名和密码](#用户名和密码)
     - [展示效果](#展示效果)
     - [运行单元测试](#运行单元测试)
 <!-- /TOC -->
@@ -38,6 +40,32 @@
 * docker 运行 ![alt text](image-2.png)
 * 浏览器访问：http://localhost:8080/swagger
 
+### 初始化数据
+```
+ dbContext.Books.AddRange(new List<Entities.Book>
+            {
+                new Entities.Book{ Title="book1",Author="author1",Price=10d,Category="category1"},
+                new Entities.Book{ Title="book2",Author="author2",Price=11d,Category="category2"},
+                new Entities.Book{ Title="book3",Author="author3",Price=12d,Category="category3"},
+            });
+
+            dbContext.User.AddRange(new List<Entities.User>
+            {
+                new Entities.User{ Id=1,Name="admin",Password="123123",Role="admin"},
+                new Entities.User{ Id=2,Name="lam",Password="123123",Role=""},
+            });
+```
+
+### 用户名和密码
+```
+admin角色
+用户名：admin
+密码：  123123
+
+无角色
+用户名：lam
+密码：  123123
+```
 ### 展示效果
 ![alt text](image.png)
 

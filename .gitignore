@@ -10,3 +10,5 @@ src/BookStore.Test/obj/project.assets.json
 src/BookStore.Test/obj/Debug/net8.0/BookStore.Test.AssemblyInfoInputs.cache
 src/BookStore.Test/obj/Debug/net8.0/BookStore.Test.GeneratedMSBuildEditorConfig.editorconfig
 src/BookStore/obj/BookStore.csproj.nuget.dgspec.json
+obj/
+

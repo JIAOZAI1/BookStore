@@ -40,7 +40,7 @@
 ### docker安装
 * git clone [git@github.com:JIAOZAI1/BookStore.git](https://github.com/JIAOZAI1/BookStore.git)
 * 运行 cd BookStore/src/BookStore & docker build -t bookstore:latest . & docker run -p 8080:8080 bookstore
-* docker 运行 ![alt text](image-2.png)
+* docker 运行后截图 ![alt text](image-2.png)
 * 浏览器访问：http://localhost:8080/swagger
 
 ### 初始化数据

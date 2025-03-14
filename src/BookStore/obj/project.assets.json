@@ -1981,11 +1981,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore\\BookStore.csproj",
+      "projectUniqueName": "C:\\Users\\linji\\Desktop\\BookStore\\src\\BookStore\\BookStore.csproj",
       "projectName": "BookStore",
-      "projectPath": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore\\BookStore.csproj",
+      "projectPath": "C:\\Users\\linji\\Desktop\\BookStore\\src\\BookStore\\BookStore.csproj",
       "packagesPath": "C:\\Users\\linji\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore\\obj\\",
+      "outputPath": "C:\\Users\\linji\\Desktop\\BookStore\\src\\BookStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\soft\\vs\\shared\\NuGetPackages"

@@ -7,6 +7,9 @@
     - [docker安装](#docker安装)
     - [初始化数据](#初始化数据)
     - [用户名和密码](#用户名和密码)
+    - [登录获取token](#登录获取token)
+    - [添加token](#添加token)
+    - [请求](#请求)
     - [展示效果](#展示效果)
     - [运行单元测试](#运行单元测试)
 <!-- /TOC -->
@@ -66,6 +69,17 @@ admin角色
 用户名：lam
 密码：  123123
 ```
+
+### 登录获取token
+![alt text](image-3.png)
+![alt text](image-4.png)
+
+### 添加token
+![alt text](image-5.png)
+
+### 请求
+![alt text](image-6.png)
+![alt text](image-7.png)
 ### 展示效果
 ![alt text](image.png)
 

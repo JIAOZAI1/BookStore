@@ -44,8 +44,8 @@
 * 浏览器访问：http://localhost:8080/swagger
 
 ### 初始化数据
-```
- dbContext.Books.AddRange(new List<Entities.Book>
+``` C#
+            dbContext.Books.AddRange(new List<Entities.Book>
             {
                 new Entities.Book{ Title="book1",Author="author1",Price=10d,Category="category1"},
                 new Entities.Book{ Title="book2",Author="author2",Price=11d,Category="category2"},

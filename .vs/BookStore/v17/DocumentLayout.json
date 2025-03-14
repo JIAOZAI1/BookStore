@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FABE3E0-B38A-B421-3B55-E8F9734A923C}|src\\BookStore\\BookStore.csproj|c:\\users\\linji\\desktop\\sss\\bookstore\\src\\bookstore\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FABE3E0-B38A-B421-3B55-E8F9734A923C}|src\\BookStore\\BookStore.csproj|solutionrelative:src\\bookstore\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FABE3E0-B38A-B421-3B55-E8F9734A923C}|src\\BookStore\\BookStore.csproj|c:\\users\\linji\\desktop\\sss\\bookstore\\src\\bookstore\\bookstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FABE3E0-B38A-B421-3B55-E8F9734A923C}|src\\BookStore\\BookStore.csproj|solutionrelative:src\\bookstore\\bookstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E9EE13-E6BA-34D2-E8F8-F701B75245B9}|src\\BookStore.Test\\BookStore.Test.csproj|c:\\users\\linji\\desktop\\sss\\bookstore\\src\\bookstore.test\\services\\cartservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E9EE13-E6BA-34D2-E8F8-F701B75245B9}|src\\BookStore.Test\\BookStore.Test.csproj|solutionrelative:src\\bookstore.test\\services\\cartservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FABE3E0-B38A-B421-3B55-E8F9734A923C}|src\\BookStore\\BookStore.csproj|c:\\users\\linji\\desktop\\sss\\bookstore\\src\\bookstore\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FABE3E0-B38A-B421-3B55-E8F9734A923C}|src\\BookStore\\BookStore.csproj|solutionrelative:src\\bookstore\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E9EE13-E6BA-34D2-E8F8-F701B75245B9}|src\\BookStore.Test\\BookStore.Test.csproj|c:\\users\\linji\\desktop\\sss\\bookstore\\src\\bookstore.test\\services\\bookservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E9EE13-E6BA-34D2-E8F8-F701B75245B9}|src\\BookStore.Test\\BookStore.Test.csproj|solutionrelative:src\\bookstore.test\\services\\bookservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\BookStore\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\BookStore\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:46:05.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookStore",
+              "DocumentMoniker": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore\\BookStore.csproj",
+              "RelativeDocumentMoniker": "src\\BookStore\\BookStore.csproj",
+              "ToolTip": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore\\BookStore.csproj",
+              "RelativeToolTip": "src\\BookStore\\BookStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T01:46:02.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "src\\BookStore\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore\\Services\\CartService.cs",
+              "RelativeToolTip": "src\\BookStore\\Services\\CartService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAnwFkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:57:36.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore.Test\\Services\\CartServiceTest.cs",
+              "RelativeDocumentMoniker": "src\\BookStore.Test\\Services\\CartServiceTest.cs",
+              "ToolTip": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore.Test\\Services\\CartServiceTest.cs",
+              "RelativeToolTip": "src\\BookStore.Test\\Services\\CartServiceTest.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAIA1wE0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:43:57.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore.Test\\Services\\BookServiceTest.cs",
+              "RelativeDocumentMoniker": "src\\BookStore.Test\\Services\\BookServiceTest.cs",
+              "ToolTip": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore.Test\\Services\\BookServiceTest.cs",
+              "RelativeToolTip": "src\\BookStore.Test\\Services\\BookServiceTest.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:39:38.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

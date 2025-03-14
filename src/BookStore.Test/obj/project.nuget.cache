@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sCZUGTbeqLI=",
+  "dgSpecHash": "N/19tV1+x8U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\linji\\Desktop\\xxx\\BookStore\\src\\BookStore.Test\\BookStore.Test.csproj",
+  "projectFilePath": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore.Test\\BookStore.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\linji\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\linji\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

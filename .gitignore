@@ -1,0 +1,12 @@
+src/BookStore/obj/BookStore.csproj.nuget.dgspec.json
+src/BookStore/obj/*
+src/BookStore/Debug/*
+src/BookStore/obj/Debug/net8.0/BookStore.AssemblyInfo.cs
+src/BookStore/obj/project.nuget.cache
+src/BookStore/obj/BookStore.csproj.nuget.dgspec.json
+src/BookStore/obj/Debug/net8.0/BookStore.AssemblyInfo.cs
+src/BookStore.Test/obj/BookStore.Test.csproj.nuget.dgspec.json
+src/BookStore.Test/obj/project.assets.json
+src/BookStore.Test/obj/Debug/net8.0/BookStore.Test.AssemblyInfoInputs.cache
+src/BookStore.Test/obj/Debug/net8.0/BookStore.Test.GeneratedMSBuildEditorConfig.editorconfig
+src/BookStore/obj/BookStore.csproj.nuget.dgspec.json

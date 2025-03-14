@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\linji\\Desktop\\xxx\\BookStore\\src\\BookStore\\BookStore.csproj": {}
+    "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore\\BookStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\linji\\Desktop\\xxx\\BookStore\\src\\BookStore\\BookStore.csproj": {
+    "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore\\BookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linji\\Desktop\\xxx\\BookStore\\src\\BookStore\\BookStore.csproj",
+        "projectUniqueName": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore\\BookStore.csproj",
         "projectName": "BookStore",
-        "projectPath": "C:\\Users\\linji\\Desktop\\xxx\\BookStore\\src\\BookStore\\BookStore.csproj",
+        "projectPath": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore\\BookStore.csproj",
         "packagesPath": "C:\\Users\\linji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linji\\Desktop\\xxx\\BookStore\\src\\BookStore\\obj\\",
+        "outputPath": "C:\\Users\\linji\\Desktop\\sss\\BookStore\\src\\BookStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\soft\\vs\\shared\\NuGetPackages"

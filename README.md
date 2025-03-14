@@ -6,6 +6,7 @@
     - [本地安装](#本地安装)
     - [docker安装](#docker安装)
     - [展示效果](#展示效果)
+    - [运行单元测试](#运行单元测试)
 <!-- /TOC -->
 # BookStore 在线书籍商店
 ### 介绍
@@ -27,14 +28,18 @@
 
 ### 本地安装
 * git clone [git@github.com:JIAOZAI1/BookStore.git](https://github.com/JIAOZAI1/BookStore.git)
-* 运行 cd BookStore & dotnet run --urls=https://localhost:5001
+* 运行 cd src/BookStore & dotnet run --urls=https://localhost:5001
 * 浏览器访问：https://localhost:5001/swagger
   
 
 ### docker安装
 * git clone [git@github.com:JIAOZAI1/BookStore.git](https://github.com/JIAOZAI1/BookStore.git)
-* 运行 cd BookStore & docker build -t bookstore:latest . & docker run -p 8080:8080 bookstore
-* 浏览器访问：http://localhost:5001/swagger
+* 运行 cd src/BookStore & docker build -t bookstore:latest . & docker run -p 8080:8080 bookstore
+* 浏览器访问：http://localhost:8080/swagger
 
 ### 展示效果
 ![alt text](image.png)
+
+### 运行单元测试
+* cd src/BookStore.Test & dotnet test
+* ![alt text](image-1.png)
